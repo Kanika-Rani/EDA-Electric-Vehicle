@@ -51,3 +51,9 @@ And other relevant features.
   * plotly.express for interactive and animated visualizations
   * numpy for numerical operations
   * bar_chart_race for animated bar charts
+### Results and Findings
+* EV Adoption Trends: The analysis shows significant growth in electric vehicle adoption over recent years, with a concentration in specific regions.
+* Range and Price Correlation: Electric vehicles with higher ranges tend to have higher prices, highlighting a balance between affordability and performance.
+* CAFV Eligibility: The majority of Battery Electric Vehicles (BEVs) are eligible for clean alternative fuel vehicle programs, while many PHEVs are not, suggesting areas for policy improvement.
+### Conclusion
+This project provides insights into the electric vehicle market, helping stakeholders understand trends, challenges, and opportunities in the industry.
